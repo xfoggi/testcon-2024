@@ -1,0 +1,11 @@
+# create virtual env
+python -m venv .venv
+
+# activate
+./.venv/Scripts/python.exe
+
+# install robot
+./.venv/Scripts/pip.exe install -r requirements.txt
+
+# check installation
+./.venv/Scripts/python.exe -m robot

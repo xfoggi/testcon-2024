@@ -1,0 +1,12 @@
+robotframework
+robotframework-browser
+robotframework-faker
+robotframework-requests
+
+#./.venv/Scripts/Activate
+# pip install -r requirements.txt
+
+
+#.venv/Scripts/pip install -r requirements.txt
+#.venv/Scripts/pip install robotframework-browser
+#rfbrowser init
